@@ -71,6 +71,6 @@ fetch("data.json")
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/moaz890)
-- Twitter - [@yourusername](https://www.twitter.com/Prog_Abdelattey)
+- Frontend Mentor - [@moaz890](https://www.frontendmentor.io/profile/moaz890)
+- Twitter - [@Prog_Abdelattey](https://www.twitter.com/Prog_Abdelattey)
 
